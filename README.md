@@ -46,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=umangahuja1&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="umangahuja1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangahuja1&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=350" alt="umangahuja1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangahuja1&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="umangahuja1" /></p>
 
 
 
